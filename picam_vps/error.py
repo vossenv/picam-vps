@@ -1,0 +1,2 @@
+class CameraConfigurationException(BaseException):
+    pass
